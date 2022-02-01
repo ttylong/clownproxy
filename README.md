@@ -22,4 +22,4 @@ Clown Proxy is an assignment for CPSC 441 at the University of Calgary. It chang
 
 ## Notes 
 1. This assignment was designed around the assignment instructions, that is, it was tested only on the required http sites, and may not work for other sites
-1.1 The web page it was tested on is: http://pages.cpsc.ucalgary.ca/~carey/CPSC441/ and any sub directory <p>
+    * The web page it was tested on is: http://pages.cpsc.ucalgary.ca/~carey/CPSC441/ and any sub directory <p>
